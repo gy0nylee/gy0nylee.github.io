@@ -15,10 +15,10 @@ I am a Ph.D. student in Department of Statistics at EWHA Womans University, advi
 
 Education
 ======
-** EWHA Womans University
-   \Ph.D. in Statistics (Sep. 2023 - )
-   \M.S. in Statistics (Mar. 2021 - Feb.2023)
-   \B.S. in Statistics and Fashion Industry (Mar. 2016 - Feb. 2021)
+**EWHA Womans University**
+   <br>Ph.D. in Statistics (Sep. 2023 - )
+   <br>M.S. in Statistics (Mar. 2021 - Feb.2023)
+   <br>B.S. in Statistics and Fashion Industry (Mar. 2016 - Feb. 2021)
 
 
 
