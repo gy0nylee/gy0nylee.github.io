@@ -16,9 +16,9 @@ I am a Ph.D. student in Department of Statistics at EWHA Womans University, advi
 Education
 ------
 **EWHA Womans University**
-   <br> Ph.D. in Statistics (Sep. 2023 - )
-   <br> M.S. in Statistics (Mar. 2021 - Feb.2023)
-   <br> B.S. in Statistics and Fashion Industry (Mar. 2016 - Feb. 2021)
+   <br><span style="font-family:PT Sans;color:#8A8A8A;font-size:97%"> Ph.D. in Statistics (Sep. 2023 - )
+   <br><span style="font-family:PT Sans;color:#8A8A8A;font-size:97%"> M.S. in Statistics (Mar. 2021 - Feb.2023)
+   <br><span style="font-family:PT Sans;color:#8A8A8A;font-size:97%"> B.S. in Statistics and Fashion Industry (Mar. 2016 - Feb. 2021)
 
 
 
