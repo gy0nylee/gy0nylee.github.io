@@ -16,7 +16,9 @@ redirect_from:
 ------
 - <span style="font-family:PT Sans">EWHA Womans University
    <br><span style="font-family:PT Sans;color:#8A8A8A;font-size:97%"> Ph.D. in Statistics (Sep. 2023 - )
+- <span style="font-family:PT Sans">EWHA Womans University
    <br><span style="font-family:PT Sans;color:#8A8A8A;font-size:97%"> M.S. in Statistics (Mar. 2021 - Feb.2023)
+- <span style="font-family:PT Sans">EWHA Womans University
    <br><span style="font-family:PT Sans;color:#8A8A8A;font-size:97%"> B.S. in Statistics and Fashion Industry (Mar. 2016 - Feb. 2021)
 
 
