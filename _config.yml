@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sunkyung Lee / @EWHA"
+title                    : "Sunkyung Lee @EWHA MLLab"
 title_separator          : "-"
 name                     : &name "Sunkyung Lee"
-description              : &description "@ EWHA WOMANS UNIVERSITY"
+description              : &description "Sunkyung's personal website"
 url                      : https://gy0nylee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gy0nylee/agy0nylee.github.io"
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sunkyung LEe"
+  name             : "Sunkyung Lee"
   avatar           : "profile.png"
-  bio              : "Department of Statistics at Ewha Womans University"
-  location         : "Seoul, Korea"
-  googlescholar    : #none
-  email            : "amy71138@ewhain.net"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : #"academicpages"
-  linkedin         :
+  bio              : "Ph.D. Student at EWHA"
+  location         : "Seoul, South Korea"
+  googlescholar    :  "https://scholar.google.com"
+  email            :  "amy71138@ewhain.net"
+  researchgate     :  "https://www.researchgate.net"
+  github           :  "github.com"
+  linkedin         :  "linkedin.com"
 
 
 # Reading Files
