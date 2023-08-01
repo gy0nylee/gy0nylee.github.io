@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sunkyung Lee @MLLab"
+title                    : <span style="font-family:PT Sans">"Sunkyung Lee @MLLab"
 title_separator          : "-"
 name                     : &name "Sunkyung Lee"
 description              : &description "Sunkyung's personal website"
