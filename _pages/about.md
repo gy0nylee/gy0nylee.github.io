@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,11 +16,11 @@ I am a Ph.D. student in Department of Statistics at EWHA Womans University, advi
 Education
 ======
 EWHA Womans University
-- Ph.D. in Statistics (Sep. 2023 - )
+* Ph.D. in Statistics (Sep. 2023 - )
 EWHA Womans University
-- M.S. & Ph.D. in Statistics (Mar. 2021 - Feb.2023)
+* M.S. & Ph.D. in Statistics (Mar. 2021 - Feb.2023)
 EWHA Womans University
-- B.S. in Statistics and Fashion Industry (Mar. 2016 - Feb. 2021)
+* B.S. in Statistics and Fashion Industry (Mar. 2016 - Feb. 2021)
 
 
 
